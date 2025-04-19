@@ -142,7 +142,7 @@ body > .skiptranslate {
 }
 .header .logo {
 	float: left;
-	margin-top: 18px;
+	margin-top: 10px;
 }
 .header .navbar {
 	background: none;
@@ -165,7 +165,7 @@ body > .skiptranslate {
 	font-size: 14px;
 	font-weight: 500;
 	text-transform: capitalize;
-	padding: 25px 12px;
+	padding: 20px 12px;
 	position: relative;
 	display: inline-block;
 	position:relative;
@@ -424,7 +424,7 @@ body > .skiptranslate {
 =============================*/
 .slider .single-slider {
 	height: 600px;
-	background-size: cover;
+	background-size: contain;
 	background-position: center;
 	background-repeat:no-repeat;
 }
